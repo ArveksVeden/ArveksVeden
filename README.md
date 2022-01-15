@@ -8,4 +8,5 @@ The first part of my projects is written in the Visual Basic programming languag
 The only project that will be represented by the Visual Basic repository is the *Command line* game.
 
 [ Projects information: ]  
-1. Visual Basic .NET \ Command line game \ The project is being refined
+1. Visual Basic .NET \ Command line game \ The project is being refined.
+2. Programs from learning c++ \ Applications on the command line \ Project creation paused.
