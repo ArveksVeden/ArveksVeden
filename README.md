@@ -9,4 +9,5 @@ The only project that will be represented by the Visual Basic repository is the 
 
 [ Projects information: ]  
 1. Visual Basic .NET \ Command line game \ The project is being refined.
-2. Programs from learning c++ \ Applications on the command line \ Project creation paused.
+2. Programs from learning c++ \ Applications on the command line \ Project creation paused.*
+*During the c++ training, projects will appear that will be created for self-development.
