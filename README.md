@@ -14,3 +14,5 @@ The only project that will be represented by the Visual Basic repository is the 
 2. Programs from learning c++ \ Applications on the command line \ Project creation paused.*  
 *During the c++ training, projects will appear that will be created for self-development.
 3. wine-colored - Telegram bot-developed by arveksdeveden studio for its own use and development
+
+<3 https://www.youtube.com/watch?v=MzJjzEEphfM&ab_channel=HaloOdyssey
