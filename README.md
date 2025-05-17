@@ -1,18 +1,75 @@
-<h1>Welcome to my archive</h1>
+# Welcome to my Archive
 
-[ You have reached the main repository from ArveksVeden: ]
+> “Live and act within the limit of your knowledge and keep expanding it to the limit of your life”  
+> — Ayn Rand, Atlas Shrugged
 
-// This section contains basic information about ArveksVeden and projects on its behalf.
+---
 
-[ Basic information: ]  
-// My name is Artem Vedeneev. I am a beginner developer learning c++ programming language. 
-The first part of my projects is written in the Visual Basic programming language. 
-The only project that will be represented by the Visual Basic repository is the *Command line* game.
+## About Me
 
-[ Projects information: ]  
-1. Visual Basic .NET \ Command line game \ The project is being refined.
-2. Programs from learning c++ \ Applications on the command line \ Project creation paused.*  
-*During the c++ training, projects will appear that will be created for self-development.
-3. wine-colored - Telegram bot-developed by arveksdeveden studio for its own use and development
+My name is **Artyom Vedeneev**, and I am a first-year student at  
+**Peter the Great St. Petersburg Polytechnic University**, specializing in **Information Security**.
 
-<3 https://youtu.be/RTpsus570mI?si=R8eGKvj8I7ojYMaL
+This repository serves as a structured archive of my academic and extracurricular work.  
+It includes coursework, personal projects, and ongoing research in the fields of programming, security, and data systems.
+
+---
+
+## Currently Studying
+
+- C / C++ — system programming and algorithms  
+- Python — automation, utilities, and backend logic  
+- OpenGL — computer graphics and visualization  
+- Git & GitHub — version control and collaboration  
+- Linux / CLI tools — foundations for secure computing  
+- Topics: data structures, basic cryptography, digital hygiene
+
+---
+
+## University Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [`map-coloring-course-project`](https://github.com/arveksdeveden/map-coloring-course-project) | Coursework in data structures with OpenGL visualization | C, OpenGL |
+| [`UnifiedStateExamination_IT`](https://github.com/arveksdeveden/UnifiedStateExamination_IT) | Practice tools for the Russian Unified State Exam in Computer Science | C++, Python |
+| [`wine-colored`](https://github.com/arveksdeveden/wine-colored) *(private)* | Telegram bot for internal use by arveksdeveden studio | Python |
+| [`poly_style`](https://github.com/arveksdeveden/poly_style) | Basic applications developed during the first semester | C++ |
+| [`Dungeon_TheLostTemple`](https://github.com/arveksdeveden/Dungeon_TheLostTemple) | A retro command-line adventure game | Visual Basic .NET |
+| [`website_ulya`](https://github.com/arveksdeveden/website_ulya.github.io) | Static web project created during school | HTML, CSS, JavaScript |
+
+> Additional content such as scanned lab reports, cybersecurity coursework, and digital literacy exercises will be uploaded progressively.
+
+---
+
+## Skills and Tools
+
+![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Visual Basic](https://img.shields.io/badge/-VB.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Plans for 2025
+
+- Finalize the map-coloring coursework with full graphical implementation  
+- Upload and structure lab work (physics, digital literacy, infosec)  
+- Build Python utilities for data compression (Huffman, LZW)  
+- Explore basic cryptography and implement custom encryption scripts  
+
+---
+
+## Contact
+
+- VK: [vk.com/arveksdeveden](https://vk.com/arveksdeveden)  
+- Telegram: [@arveksdeveden](https://t.me/arveksdeveden)  
+- Email or Discord — available upon request
+
+---
+
+Thank you for visiting. This profile is under continuous development.
