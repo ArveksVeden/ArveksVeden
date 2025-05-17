@@ -30,8 +30,8 @@ It includes coursework, personal projects, and ongoing research in the fields of
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [`map-coloring-course-project`]((https://github.com/ArveksVeden/map-coloring-course-project)) | Coursework in data structures with OpenGL visualization | C, OpenGL |
-| [`UnifiedStateExamination_IT`]((https://github.com/ArveksVeden/UnifiedStateExamination_IT)) | Practice tools for the Russian Unified State Exam in Computer Science | C++, Python |
+| [`map-coloring-course-project`](https://github.com/ArveksVeden/map-coloring-course-project) | Coursework in data structures with OpenGL visualization | C, OpenGL |
+| [`UnifiedStateExamination_IT`](https://github.com/ArveksVeden/UnifiedStateExamination_IT) | Practice tools for the Russian Unified State Exam in Computer Science | C++, Python |
 | [`wine-colored`](https://github.com/ArveksVeden/wine-colored) *(private)* | Telegram bot for internal use by arveksdeveden studio | Python |
 | [`poly_style`](https://github.com/ArveksVeden/poly_style) | Basic applications developed during the first semester | C++ |
 | [`Dungeon_TheLostTemple`](https://github.com/ArveksVeden/Dungeon_TheLostTemple)) | A retro command-line adventure game | Visual Basic .NET |
