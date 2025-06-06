@@ -35,9 +35,8 @@ It includes coursework, personal projects, and ongoing research in the fields of
 | [`wine-colored`](https://github.com/ArveksVeden/wine-colored) *(private)* | Telegram bot for internal use by arveksdeveden studio | Python |
 | [`poly_style`](https://github.com/ArveksVeden/poly_style) | Basic applications developed during the first semester | C++ |
 | [`Dungeon_TheLostTemple`](https://github.com/ArveksVeden/Dungeon_TheLostTemple) | A retro command-line adventure game | Visual Basic .NET |
-| [`quiz_app`]([https://github.com/ArveksVeden/Dungeon_TheLostTemple](https://github.com/ArveksVeden/quiz_app)) | Interactive quiz web app for information security exam preparation | React, Vite  |
-[GitHub Pages](https://arveksveden.github.io/quiz_app/)
-
+| [`quiz_app`](https://github.com/ArveksVeden/Dungeon_TheLostTemple](https://github.com/ArveksVeden/quiz_app) | Interactive quiz web app for information security exam preparation | React, Vite  |
+[GitHub Pages](https://arveksveden.github.io/quiz_app/) - quiz_app web vers.
 
 > Additional content such as scanned lab reports, cybersecurity coursework, and digital literacy exercises will be uploaded progressively.
 
